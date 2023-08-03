@@ -71,12 +71,12 @@
 
 
     <div class="jumbotron">
-    <position: relative;
+    position: relative;
     background: #000 url("logo2.png") center center;
     width: 100%;
     height: 100%;
     background-size: cover;
-    overflow: hidden;>
+    overflow: hidden;
         <center>
             <h2> Selamat Datang
 
@@ -155,9 +155,11 @@
                 <div class="card-body">
                     <h5 class="card-title">Produk dari CV.CMA</h5>
                     <p class="card-text" align="justify">Isi produk</p>
+                    <a class="btn btn-primary btn-lg" href="<?php echo site_url('table2') ?>" role="button">Lihat Produk !</a>
                 </div>
                 <div class="card-footer">
                     <small class="text-muted">Last updated 1 mins ago</small>
+                    
                 </div>
             </div>
             <div class="card">
