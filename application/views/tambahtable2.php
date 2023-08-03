@@ -53,7 +53,7 @@
             <div class="form-group">
                 <label>Gambar : </label>
                 <input type="file" name="url" class="form-control"><br>
-                
+                               
             </div>
 
             <div class="form-group">

@@ -78,7 +78,7 @@
                 di Website Kami !</h2>
             <h2>CYBERCODE MEDIA ALTERNATIF</h2>
             <p align="center">Halaman ini memuat informasi tentang profile CV. Cybercode Media Alternatif <br /><br />
-            <p><a class="btn btn-primary btn-lg" href="<?php echo site_url('table2') ?>" role="button">Lihat Produk !</a></p>
+            <p><a class="btn btn-primary btn-lg" href="<?php echo site_url('aboutus') ?>" role="button">Lihat Juga, Data Kelompok Kami !</a></p>
         </center>
     </div>
 

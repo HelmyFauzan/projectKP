@@ -77,8 +77,8 @@
                 <?php echo $this->session->userdata('username'); ?>
                 di About Us !</h2>
             <h2>Kelompok KP pada CV.Cybercode Media Alternatif</h2>
-            <p align="center">Kelompok ini beranggotakan 2 orang </p><br /><br />
-            <p><a class="btn btn-primary btn-lg" href="#" role="button">Lihat Biodata !</a></p>
+            <p align="center">Halaman ini menampilkan data Kelompok KP yang beranggotakan 2 orang </p><br /><br />
+            <p><a class="btn btn-primary btn-lg" href="<?php echo site_url('profile')?>" role="button">Lihat Juga, Profile Perusahaan !</a></p>
         </center>
     </div>
 

@@ -71,6 +71,12 @@
 
 
     <div class="jumbotron">
+    <position: relative;
+    background: #000 url("logo2.png") center center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;>
         <center>
             <h2> Selamat Datang
 

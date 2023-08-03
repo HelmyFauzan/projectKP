@@ -72,7 +72,7 @@
         <center>
             <h2> Form Tabel Pegawai </h2>
             <h2>CV. Cybercode Media Alternatif</h2>
-            <p align="center">Memuat berbagai informasi dalam Perusahaan Kami. </p><br /><br />
+            <p align="center">Halaman ini menampilkan informasi data pegawai pada CV.Cybercode Media Alternatif </p><br /><br />
             <p><a class="btn btn-primary btn-lg" href="<?php echo site_url('table1/tambah') ?>" role="button">Tambah
                     data</a></p>
         </center>
