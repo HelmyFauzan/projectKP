@@ -148,8 +148,8 @@
             <div class="card">
                 <img class="card-img-top" src="<?php echo base_url('asset/image/logo.png') ?>" alt="Card image cap">
                 <div class="card-body">
-                    <h5 class="card-title">Produk dari CV.CMA</h5>
-                    <p class="card-text" align="justify">Isi produk</p>
+                    <h5 class="card-title" align="center">Produk dari CV.CMA</h5>
+                    <p class="card-text" align="center">Klik untuk melihat Produk kami</p>
                     <a class="btn btn-primary btn-lg" href="<?php echo site_url('table2') ?>" role="button">Lihat Produk !</a>
                 </div>
                 <div class="card-footer">
@@ -160,8 +160,8 @@
             <div class="card">
                 <img class="card-img-top" src="<?php echo base_url('asset/image/logo.png') ?>" alt="Card image cap">
                 <div class="card-body">
-                    <h5 class="card-title">Jenis Produk CV.CMA</h5>
-                    <p class="card-text" align="justify">Jenis produk
+                    <h5 class="card-title" align="center">Jenis Produk CV.CMA</h5>
+                    <p class="card-text" align="center">Jenis produk
                     </p>
                 </div>
                 <div class="card-footer">
@@ -171,8 +171,8 @@
             <div class="card">
                 <img class="card-img-top" src="<?php echo base_url('asset/image/logo.png') ?>" alt="Card image cap">
                 <div class="card-body">
-                    <h5 class="card-title">Bidang Pekerjaan di CV.CMA</h5>
-                    <p class="card-text" align="justify">Bidang pekerjaan. </p>
+                    <h5 class="card-title" align="center">Bidang Pekerjaan di CV.CMA</h5>
+                    <p class="card-text" align="center">Bidang pekerjaan. </p>
                 </div>
                 <div class="card-footer">
                     <small class="text-muted">Last updated 1 mins ago</small>
@@ -181,8 +181,8 @@
             <div class="card">
                 <img class="card-img-top" src="<?php echo base_url('asset/image/logo.png') ?>" alt="Card image cap">
                 <div class="card-body">
-                    <h5 class="card-title">Lokasi Perusahaan CV.CMA</h5>
-                    <p class="card-text" align="justify">Jl. HMS Mintareja Sarjana Hukum Jl. Ruko Town Place No.A-25, BarosCimahi, Jawa Barat 40521</p>
+                    <h5 class="card-title" align="center">Lokasi Perusahaan CV.CMA</h5>
+                    <p class="card-text" align="center">Jl. HMS Mintareja Sarjana Hukum Jl. Ruko Town Place No.A-25, BarosCimahi, Jawa Barat 40521</p>
                 </div>
                 <div class="card-footer">
                     <small class="text-muted">Last updated 1 mins ago</small>

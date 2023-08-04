@@ -22,6 +22,18 @@ class table2 extends CI_Controller
         $this->load->model("table2model");
         $data['table2'] = $this->table2model->gettable2();
         $this->load->view('tambahtable2', $data);
+        $config['upload_path'] = './asset/image'; 
+        $config['allowed_types'] = 'gif|jpg|png'; 
+        // $config['max_size'] = 100; 
+        // $config['max_width'] = 1024; 
+        // $config['max_height'] = 768; 
+        $this->load->library('upload', $config); 
+        if (!$this->upload->do_upload('gambar')) { 
+        echo $this->upload->display_errors(); 
+        } else { 
+        $upload_data = $this->upload->data(); 
+        $user['url'] = base_url("asset/image/").$upload_data['file_name']; 
+        } 
     }
 
     public function prosestambah()
