@@ -102,9 +102,9 @@
                 echo "<td>" . $row->url . "</td>";
                 echo "<td>" . $row->harga . "</td>";
                 echo "<td>";
-                echo "<a href='" . site_url('table2/update/' . $row->id) . "'>Edit</a>";
+                echo "<a type= 'button' class = 'btn btn-xs btn-warning' href='" . site_url('table2/update/' . $row->id) . "'>Edit</a>";
                 echo " | ";
-                echo "<a href='" . site_url('table2/delete/' . $row->id) . "'>Hapus</a>";
+                echo "<a  type= 'button' class = 'btn btn-xs btn-danger' href='" . site_url('table2/delete/' . $row->id) . "'>Hapus</a>";
                 echo "</td>";
                 echo "</tr>";
             }
