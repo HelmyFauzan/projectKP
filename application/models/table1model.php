@@ -13,6 +13,9 @@ class table1model extends CI_Model
     {
         $table1 = array(
             "nama" => $this->input->post('nama'),
+            "jenis_kelamin" => $this->input->post('jenis_kelamin'),
+            "email" => $this->input->post('email'),
+            "no_telp" => $this->input->post('no_telp'),
             "bidang" => $this->input->post('bidang'),
             "alamat" => $this->input->post('alamat')
         );
@@ -29,6 +32,9 @@ class table1model extends CI_Model
     {
         $table1 = array(
             "nama" => $this->input->post('nama'),
+            "jenis_kelamin" => $this->input->post('jenis_kelamin'),
+            "email" => $this->input->post('email'),
+            "no_telp" => $this->input->post('no_telp'),
             "bidang" => $this->input->post('bidang'),
             "alamat" => $this->input->post('alamat')
         );

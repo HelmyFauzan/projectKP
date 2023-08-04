@@ -29,7 +29,7 @@
 <body>
 <nav class="navbar navbar-expand-lg nav class="navbar navbar-light" style="background-color: #FF4500;">
  
- <a class="navbar-brand" href="#">CV. Cybercode Media Alternatif</a>
+ <a class="navbar-brand" href="#">CV. CYBERCODE MEDIA ALTERNATIF</a>
 
  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
    <span class="navbar-toggler-icon"></span>
@@ -112,6 +112,21 @@
             </div>
 
             <div class="form-group">
+                <label>Jenis Kelamin : </label>
+                <input type="text" name="jenis_kelamin" class="form-control"><br>
+            </div>
+
+            <div class="form-group">
+                <label>Email : </label>
+                <input type="text" name="email" class="form-control"><br>
+            </div>
+
+            <div class="form-group">
+                <label>No Telepon : </label>
+                <input type="text" name="no_telp" class="form-control"><br>
+            </div>
+
+            <div class="form-group">
                 <label>Bidang : </label>
                 <input type="text" name="bidang" class="form-control"><br>
             </div>
@@ -126,7 +141,7 @@
         </form>
         <br>
     </div>
-    
+
     <footer>
         <p>&copy; 2023 CV. Cybercode Media Alternatif</p>
     </footer>

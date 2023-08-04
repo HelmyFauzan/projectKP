@@ -29,7 +29,7 @@
 <body>
 <nav class="navbar navbar-expand-lg nav class="navbar navbar-light" style="background-color: #FF4500;">
  
- <a class="navbar-brand" href="#">CV. Cybercode Media Alternatif</a>
+ <a class="navbar-brand" href="#">CV. CYBERCODE MEDIA ALTERNATIF</a>
 
  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
    <span class="navbar-toggler-icon"></span>
@@ -76,7 +76,7 @@
 
                 <?php echo $this->session->userdata('username'); ?>
                 di Website Kami !</h2>
-            <h2>CYBERCODE MEDIA ALTERNATIF</h2>
+            <h2>CV. CYBERCODE MEDIA ALTERNATIF</h2>
             <p align="center">Halaman ini memuat informasi tentang profile CV. Cybercode Media Alternatif <br /><br />
             <p><a class="btn btn-primary btn-lg" href="<?php echo site_url('aboutus') ?>" role="button">Lihat Juga, Data Kelompok Kami !</a></p>
         </center>
