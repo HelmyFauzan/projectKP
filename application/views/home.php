@@ -183,6 +183,7 @@
                 <div class="card-body">
                     <h5 class="card-title" align="center">Lokasi Perusahaan CV.CMA</h5>
                     <p class="card-text" align="center">Jl. HMS Mintareja Sarjana Hukum Jl. Ruko Town Place No.A-25, BarosCimahi, Jawa Barat 40521</p>
+                    <a class="btn btn-primary btn-lg" href="https://goo.gl/maps/LoWkmCBChkjkfQzF6" role="button">Lihat Lokasi !</a>
                 </div>
                 <div class="card-footer">
                     <small class="text-muted">Last updated 1 mins ago</small>
